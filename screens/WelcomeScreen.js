@@ -47,7 +47,7 @@ const styles = {
   },
   button: {
     width: 300,
-    height: 50, // خليها كافية للزرار
+    height: 50, 
     backgroundColor: "#4a5f58",
     borderRadius: 8,
     marginTop: 50,
